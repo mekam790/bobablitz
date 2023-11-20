@@ -1,0 +1,4 @@
+canvas {
+      overflow: hidden;
+      /* This prevents the image from expanding beyond the viewport */
+    }
